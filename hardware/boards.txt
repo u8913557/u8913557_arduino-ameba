@@ -1,5 +1,5 @@
 
-arduino_ameba.name=Arduino Ameba
+arduino_ameba.name=u8913557 Arduino Ameba
 arduino_ameba.vid.0=0x2341
 arduino_ameba.pid.0=0x003d
 arduino_ameba.upload.tool=ameba_tools
