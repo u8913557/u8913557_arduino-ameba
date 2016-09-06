@@ -7,7 +7,7 @@ This is a personal verson to study Arduino Ameba from official 1.1.3
 You need add Ameba's configuration in "File" -> "Preferences".
 And fill below URL in "Additional Boards Manager URLs:"
 
-	https://github.com/u8913557/u8913557_arduino-ameba/raw/master/release/package_u8913557.com_ameba_index.json
+	https://github.com/u8913557/u8913557_arduino-ameba/blob/master-study/release/package_u8913557.com_ameba_index.json
 
 We also suggest to enable "Show verbose output" options on "compilation" and "upload" in Preference.
 
