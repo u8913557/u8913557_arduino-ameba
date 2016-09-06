@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "realtek",
+      "name": "u8913557",
       "maintainer": "u8913557",
       "websiteURL": "http://www.amebaiot.com/",
       "email": "u8913557@gmail.com",
@@ -27,7 +27,7 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "realtek",
+              "packager": "u8913557",
               "name": "arm-none-eabi-gcc",
               "version": "4.8.3-2014q1"
             },
@@ -94,7 +94,7 @@
               "size": "5502387"
             }
           ]
-        },
+        }
       ]
     }
   ]
