@@ -30,11 +30,6 @@
               "packager": "u8913557",
               "name": "arm-none-eabi-gcc",
               "version": "5.2.1-2015q4"
-            },
-            {
-              "packager": "realtek",
-              "name": "ameba_tools",
-              "version": "1.0.6"
             }
           ]
         }
@@ -53,19 +48,6 @@
                  "size":"77056145"
               }
            ]
-        },
-        {
-          "name": "ameba_tools",
-          "version": "1.0.6",
-          "systems": [
-            {
-              "host": "i686-mingw32",
-              "archiveFileName": "ameba_tools-1.0.6.tar.gz",
-              "url": "https://github.com/Ameba8195/Arduino/raw/master/release/ameba_tools-1.0.6.tar.gz",
-              "checksum": "SHA-256:ac6580447f73fd3d5f063b4396e0b75865b6067f4d47eee7c68e39a47e13f222",
-              "size": "5502387"
-            }
-          ]
         }
       ]
     }
