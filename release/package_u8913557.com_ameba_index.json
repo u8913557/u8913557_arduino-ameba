@@ -29,7 +29,7 @@
             {
               "packager": "u8913557",
               "name": "arm-none-eabi-gcc",
-              "version": "5.2.1-2015q4"
+              "version": "5-2015-q4-major"
             },
             {
               "packager": "realtek",
@@ -43,14 +43,14 @@
       "tools": [
         {
            "name":"arm-none-eabi-gcc",
-           "version":"5.2.1-2015q4",
+           "version":"5-2015-q4-major",
            "systems":[
               {
                  "host":"i686-mingw32",
-                 "archiveFileName":"arm-none-eabi-gcc-5.2.1-2015q4-win32.tar.gz",
-                 "url":"https://github.com/neojou/arduino-ameba/raw/master/release/arm-none-eabi-gcc-5.2.1-2015q4-win32.tar.gz",
-                 "checksum":"SHA-256:0938e98f0fff7540e69143de11e00cb917d84912f9b60752859af81d5bd054cd",
-                 "size":"77056145"
+                 "archiveFileName":"gcc-arm-none-eabi-5_2-2015q4-20151219-win32.zip",
+                 "url":"https://launchpad.net/gcc-arm-embedded/5.0/5-2015-q4-major/+download/gcc-arm-none-eabi-5_2-2015q4-20151219-win32.zip",
+                 "checksum":"MD5:5b513d3453ecd5e2034eeb951a79607f",
+                 "size":"97097"
               }
            ]
         },
