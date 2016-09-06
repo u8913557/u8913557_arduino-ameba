@@ -49,8 +49,8 @@
                  "host":"i686-mingw32",
                  "archiveFileName":"arm-none-eabi-gcc-5.2.1-2015q4-win32.tar.gz",
                  "url":"https://github.com/neojou/arduino-ameba/raw/master/release/arm-none-eabi-gcc-5.2.1-2015q4-win32.tar.gz",
-                 "checksum":"MD5:5b513d3453ecd5e2034eeb951a79607f",
-                 "size":"122823224"
+                 "checksum":"SHA-256:0938e98f0fff7540e69143de11e00cb917d84912f9b60752859af81d5bd054cd",
+                 "size":"77056145"
               }
            ]
         },
