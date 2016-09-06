@@ -1,6 +1,6 @@
 
 
-This is personal person to study Arduino Ameba from official 1.1.3
+This is personal verson to study Arduino Ameba from official 1.1.3
 
 
 1. Arduino IDE 1.6.5 support third party hardware by providing hardware configuration.
